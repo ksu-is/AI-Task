@@ -22,9 +22,9 @@ def tellme():
     hour=datetime.datetime.now().hour
     if hour>=0 and hour<10:
         speak("Good morining, you have Marketing Paper due at 11:59 PM")
-    elif hour>=10 and hour<1:
+    elif hour>=10 and hour<13:
         speak("Good Afternoon, you have python 2 module 2 assigment due tomorrow at 11:30 PM")
-    elif hour>=1 and hour<5:
+    elif hour>=13 and hour<17:
         speak("Good Evening, you have Dicussion about \"Do you believe that social media is stimulating or inhibiting critacal thinking" "due in wednesday")
     else:
         speak("Hello, you have no assigments due today")
