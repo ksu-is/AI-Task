@@ -24,6 +24,8 @@ def tellme():
         speak("Good morining, you have Marketing Paper due at 11:59 PM")
     elif hour>=10 and hour<1:
         speak("Good Afternoon, you have python 2 module 2 assigment due tomorrow at 11:30 PM")
+    elif hour>=1 and hour<5:
+        speak("Good Evening, you have Dicussion about \"Do you believe that social media is stimulating or inhibiting critacal thinking" "due in wednesday")
     else:
         speak("Hello, you have no assigments due today")
 
