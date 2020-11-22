@@ -9,3 +9,8 @@
 - [x] Made Small Updates 
 - [x] Committed at least 6 code changes 
 - [x] Included comments on each commit explaining the change
+
+## Sprint 3:
+- [] Continue tests with making changes to the code
+- [] Create a PowerPoint Slide for the project
+- [] Upload the Powerpoint slide to D2L
