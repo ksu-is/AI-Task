@@ -18,17 +18,6 @@ def speak(text):
     engine.say(text)
     engine.runAndWait()
 
-if __name__=='__main__':
-
-   while True:
-        speak("Tell me how can I help you now?")
-        statement = Command().lower()
-        if statement == 0:
-            continue
-
-        if "good bye" in statement or "ok bye" in statement or "stop" in statement:
-            speak('your personal assistant Friday is shutting down,Good bye')
-        break
 
 def tellme():
     hour=datetime.datetime.now().hour
@@ -59,3 +48,19 @@ def Command():
 
 speak("Loading your AI personal assistant Friday")
 tellme()
+
+if __name__=='__main__':
+
+   while True:
+        speak("How can I help you now?")
+        statement = Command().lower()
+        if statement == 0:
+            continue
+
+        elif "bye Friday" in statement or "Goodbye Friday" in statement or "Stop Friday" in statement:
+            speak('your personal assistant Friday is shutting down, have a good day')
+
+        else:
+            speak("Sorry, I didn't quite catch that")
+
+        break
