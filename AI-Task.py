@@ -9,10 +9,10 @@ import requests
 
 Name="Friday"
 
+
 engine=pyttsx3.init('sapi5')
 voices=engine.getProperty('voices')
 engine.setProperty('voice','voices[1].id')
-
 
 def speak(text):
     engine.say(text)
@@ -61,6 +61,9 @@ if __name__=='__main__':
 
         elif "bye Friday" in statement or "Goodbye Friday" in statement or "Stop Friday" in statement:
             speak('your personal assistant Friday is shutting down, have a good day')
+
+        elif statement == "":
+            speak("yes? I am waiting")
 
         else:
             speak("Sorry, I didn't quite catch that")
