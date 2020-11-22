@@ -1,4 +1,5 @@
 Sprint 1:
+
 [] Approved Project topic
 [] Established GitHub Account
 [] Joined class on GitHub (ksu-is)
