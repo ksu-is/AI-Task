@@ -13,5 +13,5 @@
 ## Sprint 3:
 - [] Continue tests with making changes to the code
 - [] Create a PowerPoint Slide for the project
-- [] Introduce the Project
+- [] Introduce the Project and the Main theme
 - [] Upload the Powerpoint slide to D2L
