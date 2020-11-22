@@ -1,4 +1,4 @@
-### Sprint 1: <br>
+## Sprint 1:
 - [x] Approved Project topic
 - [x] Established GitHub Account
 - [x] Joined class on GitHub (ksu-is)
