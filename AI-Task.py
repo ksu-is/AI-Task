@@ -63,7 +63,7 @@ if __name__=='__main__':
             speak('your personal assistant Friday is shutting down, have a good day')
 
         elif statement == "":
-            speak("yes? I am waiting")
+            speak("yes? I am waiting.....")
 
         else:
             speak("Sorry, I didn't quite catch that")
