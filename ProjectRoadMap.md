@@ -11,7 +11,7 @@
 - [x] Included comments on each commit explaining the change
 
 ## Sprint 3:
-- [] Continue tests with making changes to the code
-- [] Create a PowerPoint Slide for the project
-- [] Introduce the Project and the Main theme
-- [] Upload the Powerpoint slide to D2L
+- [x] Continue tests with making changes to the code
+- [x] Create a PowerPoint Slide for the project
+- [x] Introduce the Project and the Main theme
+- [x] Upload the Powerpoint slide to D2L
