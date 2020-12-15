@@ -15,3 +15,8 @@
 - [x] Create a PowerPoint Slide for the project
 - [x] Introduce the Project and the Main theme
 - [x] Upload the Powerpoint slide to D2L
+
+## Sprint 4:
+- [x] Create a Powerpoint Slide presentation
+- [x] Schedule a meeting in Teams 
+- [x] Present the project
